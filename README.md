@@ -11,5 +11,6 @@
 
 - [x] Git 安装成功
 - [x] SSH 密钥配置
-- [ ] GitHub 连接测试
-- [ ] Gitee 连接测试
+- [x] GitHub 连接测试
+- [x] Gitee 连接测试
+- [x] 同时推送双平台配置
